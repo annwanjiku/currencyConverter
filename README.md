@@ -5,5 +5,4 @@ The currencies to convert to and from are **ksh(Kenyan Shillings), usd(United St
 Currently, the buying and selling rates are fixed and do not accurately reflect real-time market fluctuations.  
 In the future, an API will be integrated.
 
-# Project link
-[https://annwanjiku.github.io/currencyConverter/]
+[Currency Converter](https://annwanjiku.github.io/currencyConverter/)
